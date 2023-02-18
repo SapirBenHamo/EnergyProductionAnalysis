@@ -9,9 +9,9 @@ This project is a comprehensive study of the trends in electricity generation gl
 
 Code:
 
-[energy_production_sql_notebook.ipynb](https://github.com/SapirBenHamo/EnergyProduction/blob/main/energy_production_sql_notebook.ipynb): This notebook includes the SQL queries, which are built from three main parts of the analysis: the global analysis of electricity generation trends,  the analysis of electricity generation trends among different continents, and the drill-down analysis of six countries with different economic, social, and environmental characteristics with micro view analysis of Israel's energy production.
+[energy_production_sql_notebook.ipynb](https://github.com/SapirBenHamo/EnergyProductionAnalysis/blob/main/energy_production_sql_notebook.ipynb): This notebook includes the SQL queries, which are built from three main parts of the analysis: the global analysis of electricity generation trends,  the analysis of electricity generation trends among different continents, and the drill-down analysis of six countries with different economic, social, and environmental characteristics with micro view analysis of Israel's energy production.
 
-[energy_production_python.ipynb](https://github.com/SapirBenHamo/EnergyProduction/blob/main/energy_production_python.ipynb): This notebook includes graph which describe the correlation between GDP per capita and the use of renewable energies for electricity generation, in continent level.
+[energy_production_python.ipynb](https://github.com/SapirBenHamo/EnergyProductionAnalysis/blob/main/energy_production_python.ipynb): This notebook includes graph which describe the correlation between GDP per capita and the use of renewable energies for electricity generation, in continent level.
 Energy_Production.sql: This file includes the SQL queries.
 
 ![image](https://user-images.githubusercontent.com/113616529/219388256-d83df85f-26a8-487b-9d6a-8833df7b47a4.png)
@@ -28,10 +28,5 @@ Data:
 EnergyProdDB.csv: This file includes the database that has been used for this analysis. It includes information regarding the total energy amount each country generated in each year between the years 1900 - 2018, and for each source of energy. Additionally, this DB contains the GDP level for each country in the years mentioned.
 
 Presentation:
-
-<<<<<<< HEAD
-[energy_production_presentation.pdf](https://github.com/SapirBenHamo/EnergyProduction/blob/main/energy_production_presentation.pdf): This file contain the final results, including additional explaination and key insights of the analysis.
-=======
-Energy Production.pdf: This file contain the final results, including additional explaination and key insights of the analysis.
->>>>>>> parent of 5c9686d... Update README.md
+[energy_production_presentation.pdf](https://github.com/SapirBenHamo/EnergyProductionAnalysis/blob/main/energy_production_presentation.pdf): This file contain the final results, including additional explaination and key insights of the analysis.
 
